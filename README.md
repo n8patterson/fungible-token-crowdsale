@@ -51,6 +51,22 @@ Below is an example of how the crowdsale works.
 
 ![Kasei Coin Crowdsale Deploy Compile](./Execution_Results/3-crowdsale-deploy-compile.gif)
 
+4. Connect two accounts to a local blockchain with Remix, MetaMask, and Ganache
+
+![Kasei Coin Crowdsale Deploy Compile](./Execution_Results/4-base-deploy.gif)
+
+5. Deploy the `KaseiCoinCrowdsaleDeployer` to a local blockchain with Remix, MetaMask, and Ganache
+
+![Kasei Coin Crowdsale Deploy Compile](./Execution_Results/5-create-coin.gif)
+
+6. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accounts.
+
+![Kasei Coin Crowdsale Deploy Compile](./Execution_Results/6-buy-example.gif)
+
+7. After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
+
+![Kasei Coin Crowdsale Deploy Compile](./Execution_Results/7-total-amount.gif)
+
 ---
 
 ## Contributors 
